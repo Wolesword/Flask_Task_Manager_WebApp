@@ -1,7 +1,7 @@
 absl-py==0.11.0
 altair==4.1.0
 aniso8601==8.0.0
-anyio @ file:///D:/bld/anyio_1609601370236/work/dist
+ex.anyio @ file:///D:/bld/anyio_1609601370236/work/dist
 argon2-cffi @ file:///D:/bld/argon2-cffi_1605217273648/work
 astor==0.8.1
 astunparse==1.6.3
