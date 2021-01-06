@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background-color: #FFC107
+}
+
+.flex-container {
+  background-color: #FFC107;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  background-color: #3F51B5;
+  color: #fff;
+}
+
+section.content {
+  flex: 1;
+}
+
+footer {
+  background-color: #FFC107;
+  color: #333;
+}
